@@ -1,0 +1,7 @@
+{
+  "name": "Realview VR",
+  "description": "Professional 360-degree walkthrough capture for mobile.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
